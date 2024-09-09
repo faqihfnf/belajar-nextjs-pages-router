@@ -1,0 +1,13 @@
+.error {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: darkmagenta;
+  font-size: x-large;
+  &__image {
+    width: 50%;
+  }
+}
